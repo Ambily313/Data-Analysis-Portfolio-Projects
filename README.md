@@ -19,7 +19,8 @@ This serves as a central hub to showcase all my data analysis projects, categori
 │
 ├── 📂 Exploratory Data Analysis (EDA)
 │   ├── [Project 3 - Retail Sales Analysis](#)
-│   └── [Project 4 - App Store Insights](#)
+│   ├── [Project 2 - Retail Sales Analysis](#)
+│   └── [Project 1 - Titanic Dataset: EDA and Data Cleaning with Pandas](https://github.com/Ambily313/Titanic-Pandas-EDA)
 │
 ├── 📉 Statistical Analysis
 │   ├── [Project 5 - Hypothesis Testing](#)
