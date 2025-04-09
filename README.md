@@ -1,22 +1,23 @@
 # 📊 Data Analysis Portfolio
 
-Welcome to my project portfolio repository 🙏   
+Welcome to my project portfolio repository!  
 
-This serves as a central hub to showcase all my data analysis projects, categorized by type for easy navigation.
+This serves as a central hub to showcase all my data analysis projects, categorized by tools and project types for easy access.
 
- 🔗 **All project links are included below. The latest projects appear first under each category.**
+🔗 **All project links are included below. Newest projects are listed first in each category.**
 
 ---
 
 ## 📁 Project Tree
 
 ```text
-📦 Data Analysis Projects
+### 📈 Data Analysis Projects
+
 ├── 📊 Dashboards
 │   ├── [Project 1 - Interactive Dashboard](#)
 │   └── [Project 2 - KPI Tracker](#)
 │
-├── 📈 Exploratory Data Analysis (EDA)
+├── 📂 Exploratory Data Analysis (EDA)
 │   ├── [Project 3 - Retail Sales Analysis](#)
 │   └── [Project 4 - App Store Insights](#)
 │
@@ -28,5 +29,15 @@ This serves as a central hub to showcase all my data analysis projects, categori
 │   ├── [Project 7 - Data Wrangling Pipeline](#)
 │   └── [Project 8 - Handling Missing Values](#)
 │
+├── 📂 SQL Projects
+│   ├── [Project 9 - Sales Analysis with SQL](#)
+│   └── [Project 10 - Customer Segmentation](#)
+│
+├── 📊 Tableau Dashboards
+│   ├── [Project 11 - Regional Sales Dashboard](#)
+│   └── [Project 12 - Marketing Performance Tracker](#)
+│
 └── 🧪 Other Projects
-    └── [Project 9 - Custom Analysis](#)
+    └── [Project 13 - Custom Analysis](#)
+    └── [Project 10 - Customer Segmentation](#)
+
