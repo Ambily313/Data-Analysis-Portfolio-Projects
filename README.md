@@ -32,8 +32,7 @@ This serves as a central hub to showcase all my data analysis projects, categori
 
 <h3 style="color:#4b4b4b;">✅ SQL Projects</h3>
 
-- [Project 2 - Sales Analysis with SQL](#)
-- [Project 1 - Customer Segmentation](#)
+- [Project 1 -Employee Data Analysis](https://github.com/Ambily313/Data-Analysis-Using-SQL/tree/main)
 
 <h3 style="color:#4b4b4b;">✅ Tableau Dashboards</h3>
 
