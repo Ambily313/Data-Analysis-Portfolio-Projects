@@ -12,9 +12,7 @@ This repository showcases my end-to-end projects across diverse domains, tools, 
 
 ### ✅ Interactive Dashboards (Tableau)
 - [Regional Sales Dashboard (Tableau)](#)
-- [KPI Tracker Dashboard (Power BI)](#)
 - [Marketing Performance Tracker (Tableau)](#)
-- [Interactive Web Dashboard (Streamlit)](#)
 
 ### ✅ Exploratory Data Analysis (EDA)
 - [Iris Dataset – Grouped Analysis with Pandas](https://github.com/Ambily313/Iris-Species-Analysis-with-Grouping-Aggregation-in-Pandas)
