@@ -1,6 +1,6 @@
 <h1 style="color:#0a2f5c;">Data Analysis Portfolio</h1>
 
-Welcome to my project portfolio repository!  
+Welcome to my project portfolio repository!  🙏
 
 This serves as a central hub to showcase all my data analysis projects, categorized by tools and project types for easy access.
 
@@ -8,7 +8,7 @@ This serves as a central hub to showcase all my data analysis projects, categori
 
 ---
 
-<h2 style="color:#0a2f5c;">Project Tree</h2>
+<h2 style="color:#0a2f5c;">📂 Project Tree</h2>
 
 <h3 style="color:#4b4b4b;">Dashboards</h3>
 
