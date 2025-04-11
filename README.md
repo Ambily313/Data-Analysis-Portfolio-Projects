@@ -19,7 +19,7 @@ This serves as a central hub to showcase all my data analysis projects, categori
 │
 ├── 📂 Exploratory Data Analysis (EDA)
 │   ├── [Project 3 - Retail Sales Analysis](#)
-│   ├── [Project 2 - Retail Sales Analysis](#)
+│   ├── [Project 2 - Iris Species Analysis with Grouping & Aggregation in Pandas](https://github.com/Ambily313/Iris-Species-Analysis-with-Grouping-Aggregation-in-Pandas)
 │   └── [Project 1 - Titanic Dataset: EDA and Data Cleaning with Pandas](https://github.com/Ambily313/Titanic-Pandas-EDA)
 │
 ├── 📉 Statistical Analysis
