@@ -28,8 +28,7 @@ This serves as a central hub to showcase all my data analysis projects, categori
 
 <h3 style="color:#4b4b4b;">✅ Data Cleaning & Preprocessing</h3>
 
-- [Project 2 - Data Wrangling Pipeline](#)
-- [Project 1 - Handling Missing Values](#)
+- [Project 1 -E-Commerce Purchases – Data Cleaning & Time Series Analysis](https://github.com/Ambily313/E-Commerce-Purchases-Data-Cleaning-Time-Series-Analysis)
 
 <h3 style="color:#4b4b4b;">✅ SQL Projects</h3>
 
