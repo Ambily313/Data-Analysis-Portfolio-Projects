@@ -1,8 +1,8 @@
 # 👩‍💻 Data Analysis Practice Log
 
-Welcome to my data analysis portfolio!  🙏
+#### Welcome to my Data Analysis Practice Log! 🙏
 
-This repository showcases my **hands-on practice work** — reflecting both my professional capability and continuous learning mindset.
+This repository documents my **hands-on practice work** in data analysis — highlighting my **learning journey**, growing skillset, and commitment to continuous improvement in the field.
 
 🔗 **Project links are listed below — newest projects appear first in each category.**
 
