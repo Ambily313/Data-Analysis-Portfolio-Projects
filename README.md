@@ -1,4 +1,4 @@
-# 👩‍💻 Data Analysis Portfolio
+# 👩‍💻 Data Analysis Practice Log
 
 Welcome to my data analysis portfolio!  🙏
 
