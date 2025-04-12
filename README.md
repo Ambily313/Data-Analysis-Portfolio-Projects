@@ -2,7 +2,7 @@
 
 Welcome to my data analysis portfolio!  🙏
 
-This repository showcases my end-to-end projects across diverse domains, tools, and techniques — from data wrangling to dashboarding and hypothesis testing.
+This repository showcases my **hands-on practice work** — reflecting both my professional capability and continuous learning mindset.
 
 🔗 **Project links are listed below — newest projects appear first in each category.**
 
