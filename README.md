@@ -15,7 +15,7 @@ This repository documents my **hands-on practice work** in data analysis — hig
 - [Iris Dataset – Grouped Analysis with Pandas](https://github.com/Ambily313/Iris-Species-Analysis-with-Grouping-Aggregation-in-Pandas)
 - [Titanic Dataset – EDA & Data Cleaning](https://github.com/Ambily313/Titanic-Pandas-EDA)
 ### ✅ Data Manipulation & Multi-File Operations
-- [Uber NYC Trip Analysis ](https://github.com/Ambily313/Uber-NYC-Trip-Analysis/edit/main/README.md)
+- [Uber NYC Trip Analysis ](https://github.com/Ambily313/Uber-NYC-Trip-Analysis)
 ### ✅ Data Cleaning & Time Series
 - [E-Commerce Purchases – Cleaning & Time Series Analysis](https://github.com/Ambily313/E-Commerce-Purchases-Data-Cleaning-Time-Series-Analysis)
 ### ✅ Statistical & Hypothesis Testing
