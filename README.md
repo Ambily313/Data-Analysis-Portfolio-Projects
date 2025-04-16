@@ -12,6 +12,7 @@ This repository documents my **hands-on practice work** in data analysis — hig
 
 ### ✅ Interactive Dashboards (Tableau)
 ### ✅ Exploratory Data Analysis (EDA)
+- [Netflix Data Mastery: Cleaning, Analysis & Visual Insights with Pandas](https://github.com/Ambily313/Netflix-Data-Exploration-Visualization)
 - [Iris Dataset – Grouped Analysis with Pandas](https://github.com/Ambily313/Iris-Species-Analysis-with-Grouping-Aggregation-in-Pandas)
 - [Titanic Dataset – EDA & Data Cleaning](https://github.com/Ambily313/Titanic-Pandas-EDA)
 ### ✅ Data Manipulation & Multi-File Operations
