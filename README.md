@@ -21,6 +21,8 @@ This repository documents my **hands-on practice work** in data analysis — hig
 - [E-Commerce Purchases – Cleaning & Time Series Analysis](https://github.com/Ambily313/E-Commerce-Purchases-Data-Cleaning-Time-Series-Analysis)
 ### ✅ Statistical & Hypothesis Testing
 ### ✅ SQL-Based Analysis
+ 
+- [Mastering SQL Through Real-World Banking Data – 50-Questions Challenge](https://github.com/Ambily313/Mastering-SQL-Through-Real-World-Banking-Data)
 - [Employee Data Analysis with SQL](https://github.com/Ambily313/Data-Analysis-Using-SQL/tree/main)
 ### ✅ Custom Projects
 ---
