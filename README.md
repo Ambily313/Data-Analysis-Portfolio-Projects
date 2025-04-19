@@ -19,6 +19,7 @@ This repository documents my **hands-on practice work** in data analysis — hig
 - [Uber NYC Trip Analysis ](https://github.com/Ambily313/Uber-NYC-Trip-Analysis)
 ### ✅ Data Cleaning & Time Series
 - [E-Commerce Purchases – Cleaning & Time Series Analysis](https://github.com/Ambily313/E-Commerce-Purchases-Data-Cleaning-Time-Series-Analysis)
+### ✅ File Handling & Automation Mastery
 ### ✅ Statistical & Hypothesis Testing
 ### ✅ SQL-Based Analysis
  
