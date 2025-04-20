@@ -22,6 +22,7 @@ This repository documents my **hands-on practice work** in data analysis — hig
 ### ✅ Data Cleaning & Time Series
 - [E-Commerce Purchases – Cleaning & Time Series Analysis](https://github.com/Ambily313/E-Commerce-Purchases-Data-Cleaning-Time-Series-Analysis)
 ### ✅ File Handling & Automation Mastery
+- [Mastering CSV Handling with pandas](https://github.com/Ambily313/Mastering-CSV-Handling-with-pandas)
 ### ✅ Statistical & Hypothesis Testing
 ### ✅ SQL-Based Analysis
  
