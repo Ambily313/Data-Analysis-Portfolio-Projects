@@ -20,6 +20,7 @@ This repository documents my **hands-on practice work** in data analysis — hig
 ### ✅ Data Manipulation & Multi-File Operations
 - [Uber NYC Trip Analysis ](https://github.com/Ambily313/Uber-NYC-Trip-Analysis)
 ### ✅ Data Cleaning & Time Series
+- [FIFA World Cup Matches Analysis with Pandas](https://github.com/Ambily313/FIFA-World-Cup-Matches-Analysis-with-Pandas)
 - [E-Commerce Purchases – Cleaning & Time Series Analysis](https://github.com/Ambily313/E-Commerce-Purchases-Data-Cleaning-Time-Series-Analysis)
 ### ✅ File Handling & Automation Mastery
 - [Mastering CSV Handling with pandas](https://github.com/Ambily313/Mastering-CSV-Handling-with-pandas)
